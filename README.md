@@ -1,5 +1,5 @@
 # LuaNyx
-An extended and modified version of lua-5.4.3
+An extended and modified version of lua-5.4.4
 
 ## History
 This was a project I originally started in 2013 to make Lua into a general purpose programming language with internet connectivity. I think Lua is an amazing language and the goal is to give it more functionality to be usable as a stand alone compact scripting language.
