@@ -19,7 +19,6 @@ This was a project I originally started in 2013 to make Lua into a general purpo
 * libTomFastMath
 * libTomCrypt
 * libTomFloat
-* redis support
 
 ## Licenses
 See [LICENSE.md](https://github.com/Lua-Nyx/Lua-Nyx/blob/main/LICENSE.md) for more details.

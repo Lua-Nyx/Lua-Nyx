@@ -1,5 +1,5 @@
 # Licenses
-Copyright (C) 2013-2021 William Welna (wwelna@occultusterra.com)
+Copyright (C) 2013-2023 William Welna (wwelna@occultusterra.com)
   
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
